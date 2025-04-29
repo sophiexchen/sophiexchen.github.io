@@ -7,4 +7,4 @@ categories: [news]
 
 This is the first post in my blog. Welcome!
 
-More content will follow. 
+More content will follow :)
