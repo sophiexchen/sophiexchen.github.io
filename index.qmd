@@ -1,0 +1,13 @@
+---
+title: ""
+listing:
+  contents: posts
+  type: grid
+  grid-columns: 3
+  sort: "date desc"
+  categories: true
+  sort-ui: false
+  filter-ui: false
+---
+
+My thoughts
