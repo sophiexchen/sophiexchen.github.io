@@ -1,6 +1,13 @@
-/* css styles */
-/* Set the background color of the entire page */
-body {
-    background-color: #e5b9e1;  /* pale rose pink */
+/* Header background */
+header {
+    background-color: hsl(216, 40%, 82%); /* pastel blue */
 }
 
+/* Footer background */
+footer {
+    background-color: #bae8bc; /* mint pastel green */
+}
+
+/* Main content area background */
+.main-content {
+    background-color: hwb(305 78% 4%);  /* pastel pink */
