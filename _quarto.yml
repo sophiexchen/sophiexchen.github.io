@@ -11,6 +11,7 @@ website:
 
 format:
   html:
+    favicon: animal.png
     theme: cosmo
     css: styles.css
     toc: true
