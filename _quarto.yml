@@ -11,11 +11,6 @@ website:
 
 format:
   html:
-    favicon: animal.png
+    favicon: "./animal.png"
     css: styles.css
-    theme: default  
-    
-    
-
-
-
+    theme: default
