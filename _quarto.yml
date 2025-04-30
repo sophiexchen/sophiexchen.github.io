@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Sophie X. Chen"
+  favicon: "favicon.png"
   navbar:
     left:
       - href: index.qmd
@@ -11,6 +12,5 @@ website:
 
 format:
   html:
-    favicon: "./animal.png"
     css: styles.css
     theme: default
