@@ -1,13 +1,21 @@
-/* Header background */
-header {
-    background-color: hsl(216, 40%, 82%); /* pastel blue */
+/* Set the background color of the entire page */
+html body {
+    background-color: #bdd9f2;  /* Light blue background */
 }
 
-/* Footer background */
-footer {
-    background-color: #bae8bc; /* mint pastel green */
-}
-
-/* Main content area background */
+/* Optional: Modify the background for the main content section */
 .main-content {
-    background-color: hwb(305 78% 4%);  /* pastel pink */
+    background-color: #e8c5e1;  /* pastel pink for readability*/
+}
+
+/* Optional: Set background color for the header */
+header {
+    background-color: #c4e8c7;  /* mint green for header */
+}
+
+/* Optional: Style for footer */
+footer {
+    background-color: #4682b4;  /* Steel blue for footer */
+}
+
+        
