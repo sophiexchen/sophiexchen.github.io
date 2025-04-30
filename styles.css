@@ -1,1 +1,21 @@
-/* css styles */
+/* Set the background color of the entire page */
+html body {
+    background-color: #bdd9f2;  /* Light blue background */
+}
+
+/* Optional: Modify the background for the main content section */
+.main-content {
+    background-color: #e8c5e1;  /* pastel pink for readability*/
+}
+
+/* Optional: Set background color for the header */
+header {
+    background-color: #c4e8c7;  /* mint green for header */
+}
+
+/* Optional: Style for footer */
+footer {
+    background-color: #4682b4;  /* Steel blue for footer */
+}
+
+        
