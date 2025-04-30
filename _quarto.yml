@@ -11,10 +11,11 @@ website:
 
 format:
   html:
-    favicon: ./animal.png
-    theme: cosmo
+    favicon: animal.png
     css: styles.css
-    toc: true
+    theme: default  
+    
+    
 
 
 
