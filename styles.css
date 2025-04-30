@@ -1,21 +1,10 @@
-/* Set the background color of the entire page */
+/* Set full page background to pastel baby pink */
 html body {
-    background-color: #bdd9f2;  /* Light blue background */
+    background-color: #ffe6f0; /* Baby pink */
 }
 
-/* Optional: Modify the background for the main content section */
-.main-content {
-    background-color: #e8c5e1;  /* pastel pink for readability*/
+/* Set navbar background to pastel blue */
+.navbar, .navbar-dark, .navbar-light {
+    background-color: #cce6ff !important; /* Pastel blue */
 }
 
-/* Optional: Set background color for the header */
-header {
-    background-color: #c4e8c7;  /* mint green for header */
-}
-
-/* Optional: Style for footer */
-footer {
-    background-color: #4682b4;  /* Steel blue for footer */
-}
-
-        
