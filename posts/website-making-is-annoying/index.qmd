@@ -1,5 +1,5 @@
 ---
-title: "Welcome To My Blog"
+title: "Making This Site Was So Annoying"
 author: "Sophie Chen"
 date: "2025-04-30"
 categories: [news]

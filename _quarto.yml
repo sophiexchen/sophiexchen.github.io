@@ -9,10 +9,15 @@ website:
       - href: index.qmd
         text: Blog
       - about.qmd
-      - html: |
-        <a href="https://github.com/sophiexchen" target="_blank">
-          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: auto;">
-        </a>
+      - icon: "github"
+        href: "https://github.com/sophiexchen"
+        target: _blank
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/sophiexchen/"
+        target: _blank
+      - icon: "envelope"
+        href: "mailto:philosophiexc@gmail.com"
+        target: _blank
 format:
   html:
     css: styles.css

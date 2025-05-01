@@ -2,7 +2,7 @@
 title: "Welcome To My Blog"
 author: "Sophie Chen"
 date: "2025-04-30"
-categories: [news]
+categories: [Welcome]
 ---
 
 Hi! I'm Sophie, and this is the first post on my blog. I'm excited to share my thoughts, stories, and experiences with you. 
