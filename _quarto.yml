@@ -11,6 +11,7 @@ website:
       - about.qmd
       - href: https://github.com/sophiexchen
         text: GitHub
+        target: "_blank"
 
 format:
   html:

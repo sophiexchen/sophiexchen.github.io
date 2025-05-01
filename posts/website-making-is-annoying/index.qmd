@@ -1,0 +1,8 @@
+---
+title: "Welcome To My Blog"
+author: "Sophie Chen"
+date: "2025-04-30"
+categories: [news]
+draft: true 
+---
+
