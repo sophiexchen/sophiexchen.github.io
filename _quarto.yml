@@ -9,10 +9,10 @@ website:
       - href: index.qmd
         text: Blog
       - about.qmd
-      - href: https://github.com/sophiexchen
-        text: GitHub
-        target: "_blank"
-
+      - html: |
+        <a href="https://github.com/sophiexchen" target="_blank">
+          <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 30px; height: auto;">
+        </a>
 format:
   html:
     css: styles.css
