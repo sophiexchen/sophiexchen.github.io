@@ -10,4 +10,3 @@ listing:
   filter-ui: false
 ---
 
-My thoughts

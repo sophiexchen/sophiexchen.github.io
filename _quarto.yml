@@ -9,6 +9,8 @@ website:
       - href: index.qmd
         text: Blog
       - about.qmd
+      - href: https://github.com/sophiexchen
+        text: GitHub
 
 format:
   html:
