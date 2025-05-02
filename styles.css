@@ -8,15 +8,3 @@ html body {
     background-color: #cce6ff !important; /* Pastel blue */
 }
 
-/* Style GitHub icon */
-.github-icon {
-    font-size: 1.5rem;
-    color: #000000;
-    text-decoration: none;
-}
-
-.github-icon:hover {
-    color: #333333;
-    text-decoration: none;
-}
-
