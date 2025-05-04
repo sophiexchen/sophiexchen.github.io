@@ -1,3 +1,8 @@
+/* Change site title (name) color to black */
+h1, .site-title {
+    color: #000000; /* Black color */
+}
+
 /* Set full page background to pastel baby pink */
 html body {
     background-color: #ffe6f0; /* Baby pink */
@@ -7,4 +12,3 @@ html body {
 .navbar, .navbar-dark, .navbar-light {
     background-color: #cce6ff !important; /* Pastel blue */
 }
-
