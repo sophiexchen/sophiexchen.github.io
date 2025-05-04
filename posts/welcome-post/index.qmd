@@ -3,10 +3,12 @@ title: "Welcome To My Blog"
 author: "Sophie Chen"
 date: "2025-04-30"
 categories: [Welcome]
-image: images/welcome-image.jpg
+image: images/welcome.png
 ---
+# Welcome to My Blog!
 
-![Welcome Image](images/welcome-image.jpg){width="100%"}
+
+![Welcome Image](images/welcome.png)
 
 Hi! I'm Sophie, and this is the first post on my blog. I'm excited to share my thoughts, stories, and experiences with you. 
 Whether you're here for personal reflections, creative ideas, or just to follow along on my journey, I hope you find something 
