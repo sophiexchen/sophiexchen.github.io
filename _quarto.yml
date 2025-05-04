@@ -9,6 +9,9 @@ website:
       - href: index.qmd
         text: Blog
       - about.qmd
+      - text: Resume
+        href: files/sophies-resume.pdf
+        target: "_blank"
       - icon: "github"
         href: "https://github.com/sophiexchen"
         target: _blank
