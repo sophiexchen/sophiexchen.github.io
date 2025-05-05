@@ -12,3 +12,8 @@ html body {
 .navbar, .navbar-dark, .navbar-light {
     background-color: #152332 !important; /* Navy blue */
 }
+
+.container {
+  display: grid;
+  justify-items: end; /* Aligns items (icons) to the right */
+}

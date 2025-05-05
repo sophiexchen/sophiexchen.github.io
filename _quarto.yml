@@ -5,7 +5,7 @@ website:
   title: "Sophie X. Chen"
   favicon: "favicon.png"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Blog
       - about.qmd
