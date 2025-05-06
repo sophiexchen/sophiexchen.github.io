@@ -9,7 +9,7 @@ image: images/nyc.jpeg
 The moment I boarded the plane to leave New York City for medical school, it felt like I was tearing a part of myself away.
 NYC had been my heartbeat, my home, my constant, my place of raw energy and endless possibility.
 I’d grown up in its streets, learned its rhythm, and thrived in its chaos. Leaving all that behind felt like stepping off a cliff into the unknown.
-New York wasn’t just a city; it was a feeling. It was the rush of walking down Broadway, the scent of hand-pulled noodles wafting from the kitchens of Chinatown, the rumble of subway cars pulling into Grand Central, the quiet charm of art galleries in Chelsea, the flickering lights of Times Square after dark.
+New York wasn’t just a city; it was a feeling. It was the rush of walking down Broadway, the aroma of hand-pulled noodles wafting from the kitchens of Chinatown, the rumble of subway cars pulling into Grand Central, the quiet charm of art galleries in Chelsea, the flickering lights of Times Square after dark.
 It was the pizza on every corner, the endless events, the culture, the diversity.
 I could walk into any café, any bookstore, and feel a spark of inspiration. It was the place where I discovered myself, where I learned what I wanted out of life and out of a career.
 
