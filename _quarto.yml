@@ -22,15 +22,6 @@ website:
         href: "mailto:philosophiexc@gmail.com"
         target: _blank
 
-  listing:
-    contents: posts
-    sort: "date desc"
-    type: default
-    categories: true
-    sort-ui: false
-    filter-ui: false
-    feed: true
-
 format:
   html:
     css: styles.css
