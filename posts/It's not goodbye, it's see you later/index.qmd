@@ -1,5 +1,5 @@
 ---
-title: "It's not goodbye, it's see you later"
+title: "It's not goodbye, It's see you later"
 author: "Sophie Chen"
 date: "2025-05-05"
 categories: [reflection]
