@@ -3,7 +3,7 @@ title: "Dear Bean"
 author: "Sophie Chen"
 date: "2025-05-06"
 categories: [lessons]
-image: images/bean.jpeg
+image: images/dearbean.jpeg
 ---
 
 
